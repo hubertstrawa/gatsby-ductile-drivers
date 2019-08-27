@@ -13,7 +13,7 @@ const ContactPage = () => {
           </p>
         </div>
         <div className={contactStyles.boxBottom}>
-            <form className={contactStyles.form}>
+            <form className={contactStyles.form} action="https://formspree.io/ductiledrivers@gmail.com" method="POST">
                 <div className={contactStyles.formTop}>
                    <input className={contactStyles.input} id="name" type="text" placeholder="Your Name" required/>
                    <input className={contactStyles.input} id="email" type="email" placeholder="Your Email" required/>
