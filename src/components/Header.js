@@ -10,7 +10,7 @@ const Header = props => {
             <img src={Logo} height="100px" style={{marginTop: '1.4rem'}} alt=""/>
             <Navigation />
             <DrawerToggleButton click={props.drawerClickHandler}/>
-            <a className={headerStyles.signUp} href="#">Sign Up</a>
+            <a className={headerStyles.signUp} href="https://www.ductiledrivers.com/">Sign Up</a>
         </header>
     )
 }

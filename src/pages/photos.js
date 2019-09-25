@@ -22,37 +22,37 @@ const Photos = () => {
             <div className={photoStyles.wrapper}>
             <Carousel showThumbs={false} useKeyboardArrows={true} showStatus={false}>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img1}/>
+                    <img alt='' src={img1}/>
                 </div>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img2} />
+                    <img alt=''src={img2} />
                 </div>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img3} />
+                    <img alt='' src={img3} />
                 </div>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img4} />
+                    <img alt='' src={img4} />
                 </div>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img5} />
+                    <img alt='' src={img5} />
                 </div>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img6} />
+                    <img alt='' src={img6} />
                 </div>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img7} />
+                    <img alt='' src={img7} />
                 </div>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img8} />
+                    <img alt='' src={img8} />
                 </div>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img9} />
+                    <img alt='' src={img9} />
                 </div>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img10} />
+                    <img alt='' src={img10} />
                 </div>
                 <div className={photoStyles.imgDiv}>
-                    <img src={img11} />
+                    <img alt='' src={img11} />
                 </div>
             </Carousel>
             </div>

@@ -8,7 +8,7 @@ const ContactPage = () => {
       <div className={contactStyles.box}>
         <div className={contactStyles.boxTop}>
           <p className={contactStyles.paragraph}>
-            Get in touch with us at xxx@xxx.com or use the contact form
+            Get in touch with us at <strong>ductiledrivers@gmail.com</strong> or use the contact form
             below.
           </p>
         </div>

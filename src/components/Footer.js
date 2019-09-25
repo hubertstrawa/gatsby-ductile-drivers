@@ -7,7 +7,7 @@ const Footer = () => {
       <a
         href="https://hubertstrawa.io/"
         target="_blank"
-        class="sc-kGXeez dYZpSF"
+        rel="noopener noreferrer"
       >
         © 2019 hubertstrawa.io
       </a>

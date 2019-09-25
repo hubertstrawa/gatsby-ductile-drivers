@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 import drawerStyles from "./SideDrawer.module.scss"
-import SocialIcons from "../SocialIcons"
 
 const SideDrawer = props => {
   let drawerClasses = [drawerStyles.sideDrawer]
