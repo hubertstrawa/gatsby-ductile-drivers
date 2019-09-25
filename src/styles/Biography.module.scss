@@ -6,6 +6,22 @@
     height: calc(100vh - 135px);
     overflow: scroll;
     flex-direction: column;
+
+    @media only screen and (max-width: 800px) {
+        height: 100vh;
+    }
+
+    @media only screen and (max-width: 600px) {
+        padding-top: 5rem;
+    }
+
+    @media only screen and (max-width: 500px) {
+        padding-top: 10rem;
+    }
+
+    @media only screen and (max-width: 400px) {
+        padding-top: 22rem;
+    }
 }
 
 .box {
@@ -13,7 +29,6 @@
 
     @media only screen and (max-width: 500px) {
         width: 80%;
-        margin-top: 10rem;
         text-align: center;
     }
 }
