@@ -22,13 +22,6 @@ const biography = () => {
             muzyczną. W całej dyskografii ostre, przesterowane gitary
             przeplatają się z bardziej wyszukanymi, funkowymi brzmieniami rodem
             z lat 70. W efekcie daje to nową jakość, w której odnajdą się
-            zwolennicy różnych typów muzyki rockowej i nie tylko! W całej
-            dyskografii ostre, przesterowane gitary przeplatają się z bardziej
-            wyszukanymi, funkowymi brzmieniami rodem z lat 70. W efekcie daje to
-            nową jakość, w której odnajdą się zwolennicy różnych typów muzyki
-            rockowej i nie tylko! W całej dyskografii ostre, przesterowane
-            gitary przeplatają się z bardziej wyszukanymi, funkowymi brzmieniami
-            rodem z lat 70. W efekcie daje to nową jakość, w której odnajdą się
             zwolennicy różnych typów muzyki rockowej i nie tylko!
           </p>
           <div className={bioStyles.bandMembers}>

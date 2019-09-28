@@ -7,20 +7,9 @@
     overflow: auto;
     flex-direction: column;
 
-    @media only screen and (max-width: 800px) {
-        height: 100vh;
-    }
-
-    @media only screen and (max-width: 600px) {
-        padding-top: 5rem;
-    }
-
     @media only screen and (max-width: 500px) {
-        padding-top: 10rem;
-    }
-
-    @media only screen and (max-width: 400px) {
-        padding-top: 22rem;
+        height: 100vh;
+        margin: 0.5rem 0;
     }
 }
 
